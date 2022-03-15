@@ -1,0 +1,2 @@
+build:remote --remote_executor=grpc://buildfarm-server:8980
+build:remote --extra_execution_platforms=//:linux_x86_64
